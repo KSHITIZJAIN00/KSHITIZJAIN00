@@ -89,10 +89,4 @@ Expanding my knowledge in **advanced AI/ML concepts** and **backend architecture
 
 ---
 
-### 📈 **My Contribution Activity**
-
-[![KSHITIZ JAIN's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KSHITIZJAIN00&theme=radical)](https://github.com/KSHITIZJAIN00)
-
----
-
 Thanks for visiting my profile! 😎
